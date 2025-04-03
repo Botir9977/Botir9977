@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Botir9977
+- 👋 Hi, I’m @bekxxon
 - 👀 I’m interested in ...web programming
 - 🌱 I’m currently learning ...HTML5,CSS3,JavaScript
 - 💞️ I’m looking to collaborate on ...Frontend developer
